@@ -3,10 +3,15 @@
 ## Created by 
 
 Name : Ipsita Singh
+
 Registration Number: 24BCE11465
+
 Course : Programming in Java
+
 Course Code: CSE2006
+
 Institution:VIT Bhopal University
+
 Submission Platform: Vityarthi
 
 ## About This Project
